@@ -22,7 +22,7 @@ aim to train knowledge in creating interfaces using the framework.
 
 ## Features
 
-- ⚛️ **React Js** — Lib JavaScript for building interfaces.
+- ⚛️ **React Js**: Lib JavaScript for building interfaces.
        - Use of the styled-coponents library.
        - Using React Context-Api
        - Use of ⚛️ React Hooks.
