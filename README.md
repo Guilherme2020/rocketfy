@@ -27,7 +27,7 @@ aim to train knowledge in creating interfaces using the framework.
        - Use of the styled-coponents library.
        - Using React Context-Api
        - Use of ⚛️ React Hooks.
-       - Using of the immer library.
+       - Using of the immer library for    create the next immutable state by mutating the current one.
        - Using react-icons libray.
        - Using react-dnd library for drag and drop interfaces.
 ## Getting started
