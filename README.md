@@ -1,3 +1,36 @@
+<h1 align="center">
+    <img src="https://www.projetodraft.com/wp-content/uploads/2015/09/PIPEFY.jpg" alt="Piperfy" width="700">
+
+</h1>
+
+<p align="center"> Rocketfy is a pipefy clone application made using ReactJs that had for
+aim to train knowledge in creating interfaces using the framework.
+
+<p align="center">
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="screenshots/home.jpeg" alt="License MIT">
+  </a>
+</p>
+
+<br>
+
+## Features
+
+- ⚛️ **React Js** — Lib JavaScript for building interfaces.
+       - Use of the styled-coponents library.
+       - Using React Context-Api
+       - Use of ⚛️ React Hooks.
+       - Using of the immer library.
+       - Using react-icons libray.
+       - Using react-dnd library for drag and drop interfaces.
+## Getting started
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
