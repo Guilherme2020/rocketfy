@@ -14,7 +14,7 @@ aim to train knowledge in creating interfaces using the framework.
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
-    <img src="screenshots/home.jpeg" alt="License MIT">
+    <img src="screenshots/home.png" alt="License MIT">
   </a>
 </p>
 
